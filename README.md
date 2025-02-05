@@ -11,7 +11,7 @@ json-server
 
 Para rodar localmente:
 
-Clone o repositorio: git clone [repository link] </a>
-Abra o index.html file no seu computador. </a>
-Abra o prompt de comando e baixe o json-server com o comando [npm install -g json-server] </a>
-Utilize o comando [json-server --watch apiArtists/artists.json --port 3000] </a>
+<p>Clone o repositorio: git clone [repository link] </p>
+<p>Abra o index.html file no seu computador. </p>
+<p>Abra o prompt de comando e baixe o json-server com o comando [npm install -g json-server] </p>
+<p>Utilize o comando [json-server --watch apiArtists/artists.json --port 3000] </p>
