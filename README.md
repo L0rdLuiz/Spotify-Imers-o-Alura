@@ -9,9 +9,9 @@ CSS3
 JavaScript
 json-server
 
-To run locally:
+Para rodar localmente:
 
-Clone o repositorio: git clone [repository link]
-Abra o index.html file no seu computador.
-Abra o prompt de comando e baixe o json-server com o comando [npm install -g json-server]
-Utilize o comando [json-server --watch apiArtists/artists.json --port 3000]
+Clone o repositorio: git clone [repository link] </a>
+Abra o index.html file no seu computador. </a>
+Abra o prompt de comando e baixe o json-server com o comando [npm install -g json-server] </a>
+Utilize o comando [json-server --watch apiArtists/artists.json --port 3000] </a>
